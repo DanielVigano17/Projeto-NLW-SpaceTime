@@ -32,6 +32,7 @@ export default function Layout() {
   useEffect(() => {
     SecureStore.getItemAsync('token').then((token) => {
       setIsUserAuthenticated(!!token)
+      console.log(!!token)
     })
   }, [])
 

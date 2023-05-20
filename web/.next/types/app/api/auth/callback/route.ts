@@ -1,4 +1,4 @@
-// File: C:\Users\Daniel\Documents\NLW 2023\web\src\app\api\auth\callback\route.ts
+// File: C:\Users\Daniel\Documents\NLW spacetime 2023\web\src\app\api\auth\callback\route.ts
 import * as entry from '../../../../../../src/app/api/auth/callback/route.js'
 import type { NextRequest } from 'next/server.js'
 
